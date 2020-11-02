@@ -17,19 +17,19 @@
 
 ## Languages and Tools:
 
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=flat&logo=jetbrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396.svg?&style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mariadb-003545.svg?&style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-DC382D.svg?&style=flat&logo=redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
 <br>
-<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=flat&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/atom-0aa372.svg?&style=flat&logo=atom&logoColor=white"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=flat&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-181717.svg?&style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/maven-C71A36.svg?&style=flat&logo=apache%20maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
 
 <br>
 
