@@ -17,7 +17,7 @@
 
 ## Languages and Tools:
 
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=flat&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=flat&logo=jetbrains&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396.svg?&style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=flat&logo=mariadb&logoColor=white"/>
