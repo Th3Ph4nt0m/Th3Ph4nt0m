@@ -21,6 +21,7 @@
 - [Hamibot][hamibotGH], the next-generation bot system
 - [TD-Bot][tdbotGH], a simple discord bot
 <br>
+
 ## Languages and Tools:
 
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
