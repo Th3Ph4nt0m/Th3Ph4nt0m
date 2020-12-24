@@ -46,6 +46,7 @@
   <br>
   <br>
   <br>
+<img align="left" alt="Th3Ph4nt0m's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Ph4nt0m">
 
 ## Weekly productivity record
 
@@ -54,7 +55,6 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-<img align="left" alt="Th3Ph4nt0m's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Ph4nt0m">
 
 [lostnameweb]: https://lostname.eu/
 [twitter]: https://twitter.com/th3ph4nt0m_dev
