@@ -46,6 +46,13 @@
   <br>
   <br>
   <br>
+**Productivity record**
+
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
 <img align="left" alt="Th3Ph4nt0m's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Ph4nt0m">
 
 [lostnameweb]: https://lostname.eu/
