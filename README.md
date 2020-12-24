@@ -46,8 +46,8 @@
   <br>
   <br>
   <br>
-  
-## My Week
+
+## Weekly productivity record
 
 <!--START_SECTION:waka-->
 ```text
