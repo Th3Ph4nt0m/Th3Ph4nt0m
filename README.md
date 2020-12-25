@@ -33,6 +33,18 @@
 
 <br>
 
+## Weekly productivity record
+
+<!--START_SECTION:waka-->
+```text
+Markdown   16 mins         █████████████░░░░░░░░░░░░   51.87 % 
+YAML       14 mins         ███████████▓░░░░░░░░░░░░░   47.12 % 
+```
+<!--END_SECTION:waka-->
+
+<br>
+<br>
+
 
 ## Github Stats:
 <img align="left" alt="Th3Ph4nt0m's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Th3Ph4nt0m&show_icons=true&hide_border=true">
@@ -47,15 +59,6 @@
   <br>
   <br>
 <img align="left" alt="Th3Ph4nt0m's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Ph4nt0m">
-
-## Weekly productivity record
-
-<!--START_SECTION:waka-->
-```text
-Markdown   16 mins         █████████████░░░░░░░░░░░░   51.87 % 
-YAML       14 mins         ███████████▓░░░░░░░░░░░░░   47.12 % 
-```
-<!--END_SECTION:waka-->
 
 [lostnameweb]: https://lostname.eu/
 [twitter]: https://twitter.com/th3ph4nt0m_dev
