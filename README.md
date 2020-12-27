@@ -37,8 +37,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   26 mins         ████████████████░░░░░░░░░   63.62 % 
-YAML       14 mins         █████████░░░░░░░░░░░░░░░░   35.61 % 
+JavaScript   2 hrs 41 mins   ████████████████████░░░░░   79.46 % 
+Markdown     26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+YAML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 <!--END_SECTION:waka-->
 
