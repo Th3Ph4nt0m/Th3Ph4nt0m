@@ -21,6 +21,7 @@
 - [LostNameEU][lostnameweb], a non-profit Minecraft-Network
 - ~~[Hamibot][hamibotGH], the next-generation bot system~~
 - [TD-Bot][tdbotGH], a simple discord bot
+- [Schoolplanner App][schoolplannerGH], an intelligent schoolplanner to connect students!
 <br>
 
 ## Languages and Tools:
@@ -71,3 +72,4 @@ JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░
 [github]: https://github.com/th3ph4nt0m
 [hamibotGH]: https://github.com/nicosammitohamibot
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
+[schoolplannerGH]: https://github.com/flowhorn/schulplaner
