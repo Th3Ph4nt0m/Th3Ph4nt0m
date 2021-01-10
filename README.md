@@ -4,7 +4,7 @@
 
 - 💻 I'm currently working on a [non-profit online organization][lostnameweb]!
 - ⚠ I'm a big fan of open source projects!
-- I'm currently learning Python, NodeJS and Android development!
+- I'm currently learning Python, NodeJS and Flutter development!
 
 ## Connect with me:
 
