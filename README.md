@@ -19,7 +19,7 @@
 ## Collaboration on:
 
 - [LostNameEU][lostnameweb], a non-profit Minecraft-Network
-- [Hamibot][hamibotGH], the next-generation bot system
+- ~~[Hamibot][hamibotGH], the next-generation bot system~~
 - [TD-Bot][tdbotGH], a simple discord bot
 <br>
 
