@@ -2,9 +2,9 @@
 
 ## I am a 16 year old student from Germany!
 
-- 💻 I'm currently working on a [non-profit online organization][lostnameweb]!
+
 - ⚠ I'm a big fan of open source projects!
-- I'm currently learning Python, NodeJS and Flutter development!
+- I'm currently learning Typescript development and DevOps!
 
 ## Connect with me:
 
@@ -18,7 +18,7 @@
 
 ## Collaboration on:
 
-- [LostNameEU][lostnameweb], a non-profit Minecraft-Network
+- ~~[LostNameEU][lostnameweb], a non-profit Minecraft-Network~~
 - [Hamibot][hamibotGH], the next-generation bot system
 - [TD-Bot][tdbotGH], a simple discord bot
 - [Schoolplanner App][schoolplannerGH], an intelligent schoolplanner to connect students!
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <br>
 <br>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=intellij%20idea&logoColor=white"/><img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Insomnia-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=intellij%20idea&logoColor=white"/><img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"><img src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Insomnia-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 <br>
 <br>
 <img src="https://img.shields.io/badge/DuckDuckGo-DE5833.svg?&style=for-the-badge&logo=DuckDuckGo&logoColor=white"/><img src="https://img.shields.io/badge/Thunderbird-0A84FF.svg?&style=for-the-badge&logo=Thunderbird&logoColor=white"/><img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?&style=for-the-badge&logo=Firefox%20Browser&logoColor=white"/><img src="https://img.shields.io/badge/WakaTime-000000.svg?&style=for-the-badge&logo=WakaTime&logoColor=white"/><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white"/>
