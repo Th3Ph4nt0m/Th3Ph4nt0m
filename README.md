@@ -4,7 +4,7 @@
 
 
 - ⚠ I'm a big fan of open source projects!
-- I'm currently learning Typescript development and DevOps!
+- I'm currently learning Go development and DevOps!
 
 ## Connect with me:
 
@@ -19,9 +19,11 @@
 ## Collaboration on:
 
 - ~~[LostNameEU][lostnameweb], a non-profit Minecraft-Network~~
-- [Hamibot][hamibotGH], the next-generation bot system
-- [TD-Bot][tdbotGH], a simple discord bot
+- ~~[Hamibot][hamibotGH], the next-generation bot system~~
+- ~~[TD-Bot][tdbotGH], a simple discord bot~~
 - [Schoolplanner App][schoolplannerGH], an intelligent schoolplanner to connect students!
+- [Pius-App-for-Android][piusappGH], the School-App of Bischöfliches Pius-Gymnasium Aachen
+- [notAbot][nab], an all-in-one cross-platform bot system
 <br>
 
 ## Languages and Tools:
@@ -85,3 +87,5 @@ Java     12 mins         ▓░░░░░░░░░░░░░░░░░�
 [hamibotGH]: https://github.com/nicosammitohamibot
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
 [schoolplannerGH]: https://github.com/flowhorn/schulplaner
+[piusappGH]: https://github.com/michael-mosler/Pius-App-for-Android/
+[nab]: https://www.notabot.cc/
