@@ -53,7 +53,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go           49 mins         ███████████████▒░░░░░░░░░   61.84 % 
+Kotlin       25 mins         ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 <!--END_SECTION:waka-->
 
