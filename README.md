@@ -12,7 +12,8 @@
 [<img align="left" alt="Th3Ph4nt0m | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 [<img align="left" alt="Th3Ph4nt0m | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] 
 [<img align="left" alt="Th3Ph4nt0m | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab] 
-[<img align="left" alt="Th3Ph4nt0m | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
+[<img align="left" alt="Th3Ph4nt0m | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Th3Ph4nt0m | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
@@ -84,6 +85,7 @@ YAML              7 mins          ▓░░░░░░░░░░░░░░�
 [telegram]: https://t.me/Th3Ph4nt0m_dev
 [gitlab]: https://gitlab.com/Th3Ph4nt0m
 [github]: https://github.com/th3ph4nt0m
+[linkedin]: https://www.linkedin.com/in/henrik-steffens
 [hamibotGH]: https://github.com/nicosammitohamibot
 [tdbotGH]: https://github.com/Th3Ph4nt0m/TD-Bot
 [schoolplannerGH]: https://github.com/flowhorn/schulplaner
