@@ -54,11 +54,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         2 hrs 19 mins   █████████████████████▒░░░   84.84 % 
-Git Config   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-YAML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
