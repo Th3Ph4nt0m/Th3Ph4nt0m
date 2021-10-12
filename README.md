@@ -54,7 +54,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go     2 hrs 6 mins    ███████████████████████▓░   95.09 % 
+Dart   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 <!--END_SECTION:waka-->
 
