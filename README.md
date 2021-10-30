@@ -54,7 +54,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON   6 mins          █████████████████████▓░░░   87.08 % 
+
 ```
 <!--END_SECTION:waka-->
 
