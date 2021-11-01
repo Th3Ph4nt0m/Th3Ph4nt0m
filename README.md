@@ -54,7 +54,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Dart         56 mins         █████████████▒░░░░░░░░░░░   53.12 % 
+Markdown     47 mins         ███████████░░░░░░░░░░░░░░   44.11 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
 
