@@ -54,7 +54,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy            52 mins         ██████████████████░░░░░░░   72.02 % 
+Java              16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 % 
+GitIgnore file    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
