@@ -54,6 +54,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 2 hrs 9 mins
+
 TypeScript   1 hr 25 mins    ████████████████▒░░░░░░░░   65.63 % 
 Java         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Go           13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
