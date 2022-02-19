@@ -54,12 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 17 mins
+Total: 2 hrs 10 mins
 
-Java         59 mins         ███████████░░░░░░░░░░░░░░   43.62 % 
-TypeScript   56 mins         ██████████▒░░░░░░░░░░░░░░   40.85 % 
-Go           13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-SQL          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Java             56 mins         ██████████▓░░░░░░░░░░░░░░   42.82 % 
+TypeScript       29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 % 
+GitIgnore file   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Kotlin           16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+IDEA_MODULE      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
