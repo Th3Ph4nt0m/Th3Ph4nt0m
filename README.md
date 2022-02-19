@@ -54,8 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 10 mins
-
 Java             56 mins         ██████████▓░░░░░░░░░░░░░░   42.82 % 
 TypeScript       29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 % 
 GitIgnore file   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 % 
