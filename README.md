@@ -1,10 +1,10 @@
 # Hello world, I'm Henrik - aka Th3Ph4nt0m👋
 
-## I am a 17 year old student from Germany!
+## I am an 18 year old student from Germany!
 
 
 - ⚠ I'm a big fan of open source projects!
-- I'm currently learning Go and Flutter as well as web development.
+- I'm currently learning Go and Flutter!
 
 ## Connect with me:
 
@@ -14,7 +14,9 @@
 [<img align="left" alt="Th3Ph4nt0m | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab] 
 [<img align="left" alt="Th3Ph4nt0m | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Th3Ph4nt0m | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br>
+### Support me and my projects
+<a href="https://www.buymeacoffee.com/th3ph4nt0m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
 ## Collaboration on:
