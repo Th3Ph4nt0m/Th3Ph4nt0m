@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   12 mins         █████████████████████████   100.00 %
+Dart   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
