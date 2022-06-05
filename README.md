@@ -57,9 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go         1 hr 12 mins    ████████████████████████▓   98.72 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
