@@ -26,7 +26,7 @@
 - ~~[TD-Bot][tdbotGH], a simple discord bot~~
 - [Schoolplanner App][schoolplannerGH], an intelligent schoolplanner to connect students!
 - [Pius-App-for-Android][piusappGH], the School-App of Bischöfliches Pius-Gymnasium Aachen
-- [notAbot][nab], an all-in-one cross-platform bot system
+- ~~[notAbot][nab], an all-in-one cross-platform bot system~~
 <br>
 
 ## Languages and Tools:
