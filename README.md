@@ -1,10 +1,9 @@
 # Hello world, I'm Henrik - aka Th3Ph4nt0m👋
 
-## I am an 18 year old student from Germany!
+## I am an 19 year old student from Germany!
 
 
-- ⚠ I'm a big fan of open source projects!
-- I'm currently learning Go and Flutter!
+- I'm a big fan of open source projects!
 
 ## Connect with me:
 
@@ -27,6 +26,7 @@
 - [Schoolplanner App][schoolplannerGH], an intelligent schoolplanner to connect students!
 - [Pius-App-for-Android][piusappGH], the School-App of Bischöfliches Pius-Gymnasium Aachen
 - ~~[notAbot][nab], an all-in-one cross-platform bot system~~
+- Timaker - An innovative time management solution
 <br>
 
 ## Languages and Tools:
@@ -83,7 +83,7 @@ Go     1 min           █▒░░░░░░░░░░░░░░░░░
 [lostnameweb]: https://lostname.eu/
 [twitter]: https://twitter.com/th3ph4nt0m_dev
 [instagram]: https://instagram.com/th3ph4nt0m_dev
-[telegram]: https://t.me/Th3Ph4nt0m_dev
+[telegram]: https://t.me/h3nrik_s
 [gitlab]: https://gitlab.com/Th3Ph4nt0m
 [github]: https://github.com/th3ph4nt0m
 [linkedin]: https://www.linkedin.com/in/henrik-steffens
