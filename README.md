@@ -57,7 +57,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           1 hr 51 mins    ████████████████████▒░░░░   80.89 %
+Bash         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
