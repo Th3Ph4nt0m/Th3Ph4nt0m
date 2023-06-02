@@ -56,7 +56,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 HTML   3 mins          █████████████████████████   100.00 %
 ```
 
