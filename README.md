@@ -57,7 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go            1 hr 24 mins    ████████████████████▓░░░░   82.62 %
+Dart          10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+JSON          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
