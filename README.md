@@ -34,25 +34,17 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 ## Languages and Tools:
 
 ### Basic knowledge
-<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <br><br>
 <!-- Database -->
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
 ### Fluent
 <!-- Languages -->
-<img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/><img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <br>
 <br>
 <!-- Frameworks -->
@@ -64,22 +56,13 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 
 ### Tools
 <!-- Tools -->
-<img src="https://img.shields.io/badge/-Jetbrains%20IDES-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xCode&logoColor=white">
-<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insomnia-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white"/>
-<img src="https://img.shields.io/badge/App%20Store-0D96F6.svg?&style=for-the-badge&logo=AppStore&logoColor=white"/>
-<img src="https://img.shields.io/badge/Play%20Store-414141.svg?&style=for-the-badge&logo=GooglePlay&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jetbrains%20IDES-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/><img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"><img src="https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xCode&logoColor=white"><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Insomnia-5849BE.svg?&style=for-the-badge&logo=Insomnia&logoColor=white"/><img src="https://img.shields.io/badge/App%20Store-0D96F6.svg?&style=for-the-badge&logo=AppStore&logoColor=white"/><img src="https://img.shields.io/badge/Play%20Store-414141.svg?&style=for-the-badge&logo=GooglePlay&logoColor=white"/><img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
 
 <br>
 <br>
 
 
-<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br>
 
 ## Weekly productivity record
