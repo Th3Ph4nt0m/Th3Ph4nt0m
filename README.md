@@ -70,11 +70,11 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Go         7 hrs 55 mins   █████████████████████▒░░░   84.70 %
-Markdown   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Dart       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Text       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-CSS        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Go         7 hrs 55 mins   █████████████████████▓░░░   86.50 %
+Markdown   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Text       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+CSS        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Dart       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
