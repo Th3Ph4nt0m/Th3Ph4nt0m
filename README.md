@@ -70,10 +70,10 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Go      7 hrs 3 mins    ██████████████████▓░░░░░░   74.96 %
-Dart    2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-SQL     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Go      7 hrs 12 mins   ███████████████▒░░░░░░░░░   60.73 %
+Dart    4 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.97 %
+SQL     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
