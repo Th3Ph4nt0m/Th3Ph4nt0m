@@ -70,11 +70,11 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     37 mins         ██████████████▒░░░░░░░░░░   56.74 %
-YAML     9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-XML      9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Groovy   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Dart     22 mins         ███████████▓░░░░░░░░░░░░░   46.44 %
+XML      9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+YAML     9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Groovy   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+JSON     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
