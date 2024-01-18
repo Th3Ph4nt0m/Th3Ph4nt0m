@@ -70,8 +70,7 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy   8 mins          ████████████████████████▒   96.93 %
-YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
