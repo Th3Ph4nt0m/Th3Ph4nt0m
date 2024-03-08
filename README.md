@@ -70,7 +70,9 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         2 mins          █████████████████▓░░░░░░░   71.26 %
+JavaScript   1 min           ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
