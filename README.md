@@ -70,7 +70,7 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   27 mins         █████████████████████████   100.00 %
+HTML   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
