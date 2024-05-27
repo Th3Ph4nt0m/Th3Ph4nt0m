@@ -70,11 +70,11 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-HTML             1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-CSS              52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-PHP              48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Markdown         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+HTML          1 hr 4 mins     ███████████▒░░░░░░░░░░░░░   45.10 %
+PHP           32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Image (svg)   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+CSS           13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+SQL           9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 ```
 
 <!--END_SECTION:waka-->
