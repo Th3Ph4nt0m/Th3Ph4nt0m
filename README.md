@@ -70,10 +70,7 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              21 mins         ████████████████████████▓   99.12 %
-PHP              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
