@@ -70,11 +70,11 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              1 hr 30 mins    █████████████████░░░░░░░░   68.64 %
-PHP              18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Bash             10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Markdown         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+PHP              20 mins         ███████████▓░░░░░░░░░░░░░   46.51 %
+Bash             10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+Markdown         10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+.env file        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
