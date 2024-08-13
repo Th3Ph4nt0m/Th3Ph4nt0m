@@ -70,11 +70,9 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              20 mins         ███████████▓░░░░░░░░░░░░░   46.51 %
-Bash             10 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Markdown         10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-.env file        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+PHP              1 min           ██████████████████▓░░░░░░   75.13 %
+.env file        0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
