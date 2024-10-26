@@ -70,11 +70,11 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 2 mins    █████████████▒░░░░░░░░░░░   53.09 %
-PHP              1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-HTML             32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-JSON             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+PHP              46 mins         ████████████▒░░░░░░░░░░░░   49.78 %
+HTML             32 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
+Blade Template   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+JSON             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+CSS              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
