@@ -71,7 +71,7 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 
 ```txt
 Blade Template   6 mins          ███████████████▒░░░░░░░░░   60.76 %
-PHP              3 mins          ████████▒░░░░░░░░░░░░░░░░   32.80 %
+PHP              3 mins          ████████▒░░░░░░░░░░░░░░░░   32.81 %
 CSS              0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
