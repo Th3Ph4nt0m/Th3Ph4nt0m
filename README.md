@@ -72,7 +72,6 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 ```txt
 Go    19 mins         ██████████████████░░░░░░░   72.51 %
 CSV   7 mins          ███████░░░░░░░░░░░░░░░░░░   27.49 %
-PHP   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
