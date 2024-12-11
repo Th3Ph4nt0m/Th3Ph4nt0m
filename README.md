@@ -70,9 +70,8 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Go       32 mins         ██████████████████▒░░░░░░   73.82 %
-Docker   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Other    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Other   3 mins          ██████████████████████▓░░   90.31 %
+Go      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 ```
 
 <!--END_SECTION:waka-->
