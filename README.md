@@ -70,7 +70,7 @@ Let's connect if you're interested in app development, entrepreneurship, time ma
 <!--START_SECTION:waka-->
 
 ```txt
-Go   6 mins          █████████████████████████   100.00 %
+Go   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
